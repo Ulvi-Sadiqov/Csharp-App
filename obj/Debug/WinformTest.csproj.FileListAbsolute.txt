@@ -1,0 +1,14 @@
+C:\Users\Elvin\source\repos\Test\WinformTest\bin\Debug\WinformTest.exe.config
+C:\Users\Elvin\source\repos\Test\WinformTest\bin\Debug\WinformTest.exe
+C:\Users\Elvin\source\repos\Test\WinformTest\bin\Debug\WinformTest.pdb
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.csprojAssemblyReference.cache
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.Properties.Resources.resources
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.csproj.GenerateResource.cache
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.exe
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.pdb
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.MainForm.resources
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.RegisterLoginWindow.resources
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.Events.resources
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.Allpins.resources
+C:\Users\Elvin\source\repos\Test\WinformTest\obj\Debug\WinformTest.Settings.resources
